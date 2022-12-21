@@ -1,3 +1,3 @@
 # best-repo-ever
 
-updated thois line to resolve conflicts...JUST UPDATED AS PER TRAILHEAD GUIDE.
+second change by new-branch-2 to resolve conflicts JUST UPDATED AS PER TRAILHEAD GUIDE.
